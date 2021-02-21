@@ -89,13 +89,13 @@ body{
     line-height: 20px;
 }
 
-#stats{
+.stats{
     font-size: 18px;
     font-weight: 700;
     color: var(--VeryDarkBlue);
 }
 
-#type{
+.type{
     font-size: 14px;
     font-weight: 400;
     color: var(--DarkGray);
