@@ -32,7 +32,6 @@ body{
     height: 377px;
     background-color: white;
     border-radius: 16px;
-    box-shadow: 5px 5px 15px var(--VeryDarkBlue);
     position: relative;
 }
 
@@ -53,7 +52,7 @@ body{
 .infor{
     position: absolute;
     left: 122px;
-    top: 205px;
+    top: 218px;
     text-align: center;
     line-height: 25px;
 }
@@ -76,7 +75,7 @@ body{
 }
 
 .card-footer{
-    border-top: 1px solid var(--DarkGray);
+    border-top: 1px solid whitesmoke;
     position: relative;
     top: 140px;
     display: flex;
